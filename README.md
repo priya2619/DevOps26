@@ -1,7 +1,6 @@
 
 # DevOps26
 
-Deeksha Sinha here and yes lunch pe nai jaenge
-
+Deeksha Sinha here
 # DevOps26----praveen
 
